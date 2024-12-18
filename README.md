@@ -21,7 +21,7 @@ Creepers.sbs is perfect for:
 **Getting Started:**
 
 1. Visit our [`/register`](https://github.com/creepersbs/register) repository.
-2. Fork this repository.
+2. **Star** and [Fork](https://github.com/creepersbs/register/fork) this repository.
 3. Add a file in the [`/domains`](https://github.com/creepersbs/register/blob/main/domains) folder called as you would love your domain to look like, something like this: `example.json`.
 4. Fill up the information like showcased in the [`template.json`](https://github.com/creepersbs/register/blob/main/domains/template.json) file.
 5. Make a pull request and wait for an approval, the domain would take up to 24h to work
