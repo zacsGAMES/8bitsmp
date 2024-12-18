@@ -1,6 +1,6 @@
 # Creepers.sbs - Free Subdomain Provider
 
-**Creepers.sbs** (Creepers side-by-side) is a free subdomain provider for everyone! We offer custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
+**Creepers.sbs** (*Creepers side-by-side*) is a free subdomain provider for everyone! We offer custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
 
 **What We Offer:**
 
@@ -20,10 +20,10 @@ Creepers.sbs is perfect for:
 
 **Getting Started:**
 
-1. Visit our `/register` repository.
+1. Visit our [`/register`](https://github.com/creepersbs/register) repository.
 2. Fork this repository.
-3. Add a file in the `/domains` folder called as you would love your domain to look like, something like this: `example.json`.
-4. Fill up the information like showcased in the `template.json` file.
+3. Add a file in the [`/domains`](https://github.com/creepersbs/register/blob/main/domains) folder called as you would love your domain to look like, something like this: `example.json`.
+4. Fill up the information like showcased in the [`template.json`](https://github.com/creepersbs/register/blob/main/domains/template.json) file.
 5. Make a pull request and wait for an approval, the domain would take up to 24h to work
 6. Enjoy
 
