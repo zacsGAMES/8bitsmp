@@ -1,4 +1,4 @@
-{
+{                                            (When registering your domain please remove all the text i added to explain to you how to register a subdomain, this included)
     "description": "Project Description",
     "domain": "creepers.sbs", (this is a string you have to put even if there is only one domain, more coming in the future if the service gets popular)
     "subdomain": "example",
