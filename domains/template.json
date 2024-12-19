@@ -4,16 +4,16 @@
     "subdomain": "example",
 
     "owner": {
-        "repo": "https://github.com/username/repo",
-        "email": "cool_email@anywebsite.tld"
+        "github user": "https://github.com/username", (required, has to be the one who's making the request)
+        "email": "cool_email@anywebsite.tld" (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
     },
                                                         (then choose the records: A / AAAA / CNAME / MX / TXT ) 
     "record": {
-        "A": ["1.1.1.1", "1.0.0.1"],
-        "AAAA": ["::1", "::2"],
-        "CNAME": "anywebsite.tld",
-        "MX": ["mx1.anywebsite.tld", "mx2.anywebsite.tld"],
-        "TXT": ["thi_is_an_example_verification=012345678910"],
+        "A": ["1.1.1.1", "1.0.0.1"], (points to a IPv4 address)
+        "AAAA": ["::1", "::2"],   (points to a IPv6 address)
+        "CNAME": "anywebsite.tld",  (points to another sub/domain)
+        "MX": ["mx1.anywebsite.tld", "mx2.anywebsite.tld"],  (points to mail servers)
+        "TXT": ["thi_is_an_example_verification=012345678910"], (points to server, VoIP servers, MC servers...etc)
         "SRV": [
             { "priority": 10, "weight": 60, "port": 5060, "target": "mcsrv.anydomain.tld" },
             { "priority": 20, "weight": 10, "port": 5061, "target": "srv.anydomain.tld" }
