@@ -7,18 +7,18 @@
         "repo": "https://github.com/username/repo",
         "email": "cool_email@anywebsite.tld"
     },
-
+                                                        (then choose the records: A / AAAA / CNAME / MX / TXT ) 
     "record": {
         "A": ["1.1.1.1", "1.0.0.1"],
         "AAAA": ["::1", "::2"],
-        "CNAME": "example.com",
-        "MX": ["mx1.example.com", "mx2.example.com"],
-        "TXT": ["example_verification=1234567890"],
+        "CNAME": "anywebsite.tld",
+        "MX": ["mx1.anywebsite.tld", "mx2.anywebsite.tld"],
+        "TXT": ["thi_is_an_example_verification=012345678910"],
         "SRV": [
-            { "priority": 10, "weight": 60, "port": 5060, "target": "sipserver.example.com" },
-            { "priority": 20, "weight": 10, "port": 5061, "target": "sipbackup.example.com" }
+            { "priority": 10, "weight": 60, "port": 5060, "target": "mcsrv.anydomain.tld" },
+            { "priority": 20, "weight": 10, "port": 5061, "target": "srv.anydomain.tld" }
         ]
     },
 
-    "proxied": false
+    "proxied": false (or true...depends of the service you want to use: cloudflare protection on/off)
 }
