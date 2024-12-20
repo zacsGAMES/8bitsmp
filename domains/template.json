@@ -20,5 +20,5 @@
         ]
     },
 
-    "proxied": false (or true...depends of the service you want to use: cloudflare protection on/off)
+
 }
