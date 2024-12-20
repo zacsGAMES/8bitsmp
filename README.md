@@ -34,7 +34,7 @@ Creepers.sbs is perfect for:
 
 **Donating**
 
-We would love a [donation](https://creepers.sbs/donate) (W.I.P) to show us your support, and by doing so our domain will keep on working 100%
+We would love a [donation](https://creepers.sbs/donate) to show me your support, and by doing so our domain will keep on working 100%
 
 **License**
 
