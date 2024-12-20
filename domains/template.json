@@ -20,5 +20,5 @@
         ]
     },
 
-
+ "proxy": false/true (choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
 }
