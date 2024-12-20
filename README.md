@@ -8,7 +8,7 @@
 * **Customizable Names:** Create unique subdomains for your projects, websites, or Minecraft servers.
 * **Quick and Easy Setup:** Get your subdomain up and running in minutes.
 * **Complete subdomain ownership:** Choose from a variety of subdomains with the `sbs` TLD (side-by-side) you can use everywhere you want.
-* **Reliable DNS:** Ensure your subdomain is always accessible with our robust DNS infrastructure powered by [Gcore](https://gcore.com).
+* **Reliable DNS:** Ensure your subdomain is always accessible with our robust DNS infrastructure powered by [Cloudflare](https://cloudflare.com).
 
 **Who Can Use Creepers.sbs?**
 
