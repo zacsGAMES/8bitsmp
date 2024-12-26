@@ -9,8 +9,8 @@
     },
                                                         
     "record": {
-        txt: "soon"
-        "CNAME": "creepersbs.github.io"
+        txt: "did=did:plc:zqry6qodkwys6xjl2unlo4zu"
         
- "proxy": true
+        
+ "proxy": false
 }
