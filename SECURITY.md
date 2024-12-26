@@ -7,7 +7,8 @@ By using this service you allow us also to not use this list of domains if under
 1 -`every country code`, such as **`en.creepers.sbs`** `or others like that`, (you will be able to use any subdomains of country codes like `smth.en.creepers.sbs`) <br>
 2 - `shop, store or ecommerce` domains that can be missunderstood for official creepers.sbs subdomains <br>
 3 - `mc or play` domains, we dont have an official minecraft server: you still can take `mc/play.youservername.creepers.sbs` <br>
-4 - `about, translate, status and links`, since those are domains planned to be used by creepers.sbs own project
+4 - `about, translate, status and links`, since those are domains planned to be used by creepers.sbs own project <br>
+5 - `all the domains listed in the reserved folder`, this one - > [**`folder link`**](https://github.com/creepersbs/register/tree/main/domains/reserved)
 
 
 ## Reporting a Vulnerability 
