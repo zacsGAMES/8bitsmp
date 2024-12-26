@@ -3,6 +3,13 @@
 ## Contract
 By using my service you allow me (CreeperHUB/Giocoliere) to manually remove your website/server/subdomain at the eventuality of a Code Of Conduct breach, and to check that you wont use our service I will check on your service/website/etc.. every time i want to do it. If you get banned and think its a false ban please contact me at [`support@creepercraft.store`](mailto:suppport@creepercraft.store)/[`DISCORD (faster)`](https://giocoliere.dev/discord)
 
+By using this service you allow us also to not use this list of domains if under the main creepers.sbs root: <br>
+1 -`every country code`, such as **`en.creepers.sbs`** `or others like that`, (you will be able to use any subdomains of country codes like `smth.en.creepers.sbs`) <br>
+2 - `shop, store or ecommerce` domains that can be missunderstood for official creepers.sbs subdomains <br>
+3 - `mc or play` domains, we dont have an official minecraft server: you still can take `mc/play.youservername.creepers.sbs` <br>
+4 - `about, translate, status and links`, since those are domains planned to be used by creepers.sbs own project
+
+
 ## Reporting a Vulnerability 
 
 You can report low severity bugs as issues on [**here**](https://github.com/creepersbs/register/issues/new) or iether reporting to [**@me**](https://github.com/giocoliere) via [**Discord**](https://giocoliere.dev/discord).
