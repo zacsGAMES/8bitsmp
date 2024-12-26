@@ -1,0 +1,18 @@
+{                                           
+    "description": "Testing",
+    "domain": "creepers.sbs",
+    "subdomain": "@",
+
+"country code": "eu" 
+    
+    "owner": {
+        "github user": "https://github.com/giocoliere", 
+        "email": "giocoliere@proton.me" 
+    },
+                                                                                                           
+    "record": {
+          
+        "NS": "ns51.cloudns.net", "ns52.cloudns.net", "ns53.cloudns.net", "ns54.cloudns.net"
+           },
+ "proxy": false
+}
