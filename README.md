@@ -32,12 +32,10 @@ Creepers.sbs is perfect for:
 5. Make a pull request and wait for an approval, the domain would take up to 24h to proceed (maybe even more, still within 1 week)
 6. Enjoy 🤩<br>
 
-> [!NOTE]
+> [!IMPORTANT]
 >PLEASE MAKE SURE THE FILE YOU ADD IS A VALID [.json](https://en.wikipedia.org/wiki/JSON) FILE, USE [`THIS TOOL`](https://jsonlint.com/) TO VALIDATE IT
 
-[badge-cf]:https://shields.io/badge/%20-cloudflare-blue?logo=cloudflare&style=plastic?cacheSeconds=3600
-[badge-dnssec]:https://shields.io/badge/%20-DNSSEC-blue?logo=moleculer&logoColor=white&style=plastic?cacheSeconds=3600
-[badge-ssl]:https://shields.io/badge/SSL-Required-blue?style=plastic?cacheSeconds=3600
+
 
 ### ⌛**Advanced Features (Planned):**
 
