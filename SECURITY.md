@@ -13,6 +13,6 @@ By using this service you allow us also to not use this list of domains if under
 
 ## Reporting a Vulnerability 
 
-You can report low severity bugs as issues on [**here**](https://github.com/creepersbs/register/issues/new) or iether reporting to [**@me**](https://github.com/giocoliere) via [**Discord**](https://giocoliere.dev/discord).
+You can report low severity bugs as issues on [**here**](https://github.com/creepersbs/register/issues/new) or either reporting to [**@me**](https://github.com/giocoliere) via [**Discord**](https://giocoliere.dev/discord).
 
 However, for higher severity vulnerabilities, bugs or Contact Violations, please email [`support@creeepercraft.store`](mailto:support@creepercraft.store) and I'll try to fix the issue as fast as possible.
