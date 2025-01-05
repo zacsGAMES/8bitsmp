@@ -1,6 +1,6 @@
-# Creepers.sbs - Free Subdomain Provider
+# Creepers.sbs - Yet another Free Subdomain Provider
 
-**Creepers.sbs** (*Creepers side-by-side*) is a free subdomain provider for everyone! We offer custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
+**Creepers.sbs** (*Creepers side-by-side*) is a free subdomain provider for everyone! I offer custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
 
 **What I Offer:**
 
@@ -10,7 +10,7 @@
 * **Complete subdomain ownership:** Choose from a variety of subdomains with the `sbs` TLD (side-by-side) you can use everywhere you want.
 * **Reliable DNS:** Ensure your subdomain is always accessible with our robust DNS infrastructure powered by [Cloudflare](https://cloudflare.com).
 
-**Who Can Use Creepers.sbs?**
+## **Who Can Use Creepers.sbs?**
 
 Creepers.sbs is perfect for:
 
@@ -18,7 +18,7 @@ Creepers.sbs is perfect for:
 * **Minecraft Players:** Create a personalized subdomain for your Minecraft profile or server.
 * **Anyone Else:** Anyone wanting a free and easy way to personalize their online presence.
 
-**Getting Started:**
+### **Getting Started:**
 
 1. Visit the [`/register`](https://github.com/creepersbs/register) repository.
 2. [**Star**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) and [Fork](https://github.com/creepersbs/register/fork) this repository.
@@ -27,23 +27,27 @@ Creepers.sbs is perfect for:
 5. Make a pull request and wait for an approval, the domain would take up to 24h to proceed (maybe even more, still within 1 week)
 6. Enjoy 🤩
 
-**Advanced Features (Planned):**
+### **Advanced Features (Planned):**
 
 * **Custom DNS Records:** Manage various DNS records like A records, CNAME records, and MX records for advanced configurations.
 * **SSL Certificates:** Secure your subdomain with free Let's Encrypt SSL certificates/ Cloudflare Certification.
 
-**Donating**
+### **Donating**
 
-We would love a [donation](https://creepers.sbs/donate) to show me your support, and by doing so our domain will keep on working 100%
+I would love a [donation](https://creepers.sbs/donate) to show me your support, and by doing so our domain will keep on working 100%
 
-**License**
+### **License**
 
 Creepers.sbs is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-**TERMS**
+### **TERMS**
 
-Creepers.sbs has it's own terms that you automatically agree with using the service, [check them out](https://github.com/creepersbs/register/blob/main/SECURITY.md).
+Creepers.sbs has his own terms that you automatically agree by using the service, [check them out](https://github.com/creepersbs/register/blob/main/SECURITY.md).
 
-**We're excited to help you take control of your online presence!**
+**I'm excited to help you take control of your online presence!**
 
-**Feel free to reach out to us with any questions.**
+### Problems?
+ Open an issue and tell me the problem, [**`here you go`**](https://github.com/creepersbs/register/issues/new/choose)
+
+### Similar services
+As i said this is just **another** subdomain service, check the others out as well at [**`Free 4 Life`**](https://free.hrsn.dev/#/?id=domains)
