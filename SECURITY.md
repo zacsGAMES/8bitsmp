@@ -8,7 +8,7 @@ By using this service you allow us also to not use this list of domains if under
 2 - `shop, store or ecommerce` domains that can be missunderstood for official creepers.sbs subdomains <br>
 3 - `mc or play` domains, we dont have an official minecraft server: you still can take `mc/play.youservername.creepers.sbs` <br>
 4 - `about, translate, status, whois, and any other official subdomain...` since those are domains planned to be used by creepers.sbs own project <br>
-5 - `all the domains listed in the reserved folder`, this one - > [**`folder link`**](https://github.com/creepersbs/register/tree/main/domains/reserved)
+5 - `all the domains listed in the reserved folder`, this one - > [**`folder link`**](https://github.com/creepersbs/register/tree/main/domains/reserved) <br>
 6 - `any social name`, our official socials can't be missunderstood by any subdomain you might register
 
 ## Reporting a Vulnerability 
