@@ -1,4 +1,4 @@
-# Security Policy
+# Terms
 
 ## Contract
 By using my service you allow me (CreeperHUB/Giocoliere) to manually remove your website/server/subdomain at the eventuality of a Code Of Conduct breach, and to check that you wont use our service I will check on your service/website/etc.. every time i want to do it. If you get banned and think its a false ban please contact me at [`support@creepercraft.store`](mailto:suppport@creepercraft.store)/[`DISCORD (faster)`](https://giocoliere.dev/discord)
