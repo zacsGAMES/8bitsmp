@@ -3,7 +3,7 @@
     "domain": "creepers.sbs", (this is a string you have to put even if there is only one domain, more coming in the future if the service gets popular)
     "subdomain": "example",
 
-"country code": "none" (this decides if your domain will go under any country code subdomain, such as en."domain.tld"
+"country code": "none", (this decides if your domain will go under any country code subdomain, such as en."domain.tld"
     it."domain.tld" etc... if you type "none" your domain will be put under the main route under the domain...so yourdomain.creepers.sbs)
     
     "owner": {
