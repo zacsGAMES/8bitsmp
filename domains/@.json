@@ -1,7 +1,7 @@
 {                                           
     "description": "Official",
     "domain": "creepers.sbs", 
-    "subdomain": "www"
+    "subdomain": "www",
 
     "owner": {
         "github user": "https://github.com/creepersbs"
