@@ -42,7 +42,7 @@ Creepers.sbs is perfect for:
 * [![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/creepersbs/register?labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit%20Reviews)](https://coderabbit.ai)
 * **Custom DNS Records:** Manage various DNS records like A records, CNAME records, and MX records for advanced configurations.
 * **SSL Certificates:** Secure your subdomain with free Let's Encrypt SSL certificates/ Cloudflare Certification.
-* **Other planned feaures** are in the [`readme`](https://github.com/creepersbs/.github/blob/main/profile/README.md) on the main [`Github page`](https://creeperhub.net/github)
+* **Other planned feaures** are in the [`readme`](https://github.com/creepersbs/.github/blob/main/profile/README.md) on the main [`Github page`](https://creeperhub.net/creepersbs)
 
 ### 💰**Donating**
 
