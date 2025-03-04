@@ -12,7 +12,7 @@
                                                                                                            
     "record": {
           
-        "CNAME": "naslambers.synology.me",  
+        "CNAME": "naslambers.synology.me"
            },
  "proxy": false
 }
