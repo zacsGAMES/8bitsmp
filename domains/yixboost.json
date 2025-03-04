@@ -1,0 +1,18 @@
+{                                           
+    "description": "Yixboost Games Alt Domain",
+    "domain": "creepers.sbs",
+    "subdomain": "yixboost",
+
+"country code": "none", 
+    
+    "owner": {
+        "github user": "https://github.com/Yixboost", 
+        "email": "support@yixboost.dev" 
+    },
+                                                                                                           
+    "record": {
+          
+        "CNAME": "naslambers.synology.me",  
+           },
+ "proxy": false
+}
