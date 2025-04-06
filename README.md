@@ -1,6 +1,6 @@
-# Creepers.sbs - Yet another Free Subdomain Provider
+# creepers.sbs - Yet another Free Subdomain Provider
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
-**Creepers.sbs** (*Creepers side-by-side*) is a free subdomain provider for everyone! I offer custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
+**creepers.sbs** (*"creepers side-by-side"*) is a free subdomain provider for everyone! I offer custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
 
 <details> <summary>What Do I Offer❔</summary>
 
@@ -15,9 +15,9 @@
  [![CloudDNS](https://github.com/creepersbs/.github/blob/main/profile/cloudns.png)](https://cloudns.net/)
  </details>
  
-## **Who Can Use Creepers.sbs❔**
+## **Who Can Use creepers.sbs❔**
 
-Creepers.sbs is perfect for:
+creepers.sbs is perfect for:
 
 * **Developers:** Showcase your projects with a professional-looking subdomain.
 * **Minecraft Players:** Create a personalized subdomain for your Minecraft profile or server.
@@ -50,11 +50,11 @@ I would love a [donation](https://creepers.sbs/donate) to show me your support, 
 
 ### 📃**License**
 
-Creepers.sbs is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+creepers.sbs is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ### 📜**TERMS**
 
-Creepers.sbs has his own terms that you automatically agree by using the service, [check them out](https://github.com/creepersbs/register/blob/main/SECURITY.md).
+creepers.sbs has his own terms that you automatically agree by using the service, [check them out](https://github.com/creepersbs/register/blob/main/SECURITY.md).
 
 **I'm excited to help you take control of your online presence!**
 
