@@ -1,7 +1,7 @@
 {
-    "description": "Sandiwa minecraft server",
+    "description": "fazecraft minecraft server",
     "domain": "creepers.sbs",
-    "subdomain": "sandiwa",
+    "subdomain": "fazecraft",
 
     "country code": "none",
     
@@ -13,7 +13,7 @@
     "record": {
            "A": "193.149.164.190",
         "SRV": [
-            { "priority": 10, "weight": 60, "port": 1486, "target": "sandiwa.creepers.sbs" }
+            { "priority": 10, "weight": 60, "port": 1486, "target": "fazecraft.creepers.sbs" }
         ]
     },
  "proxy": false
