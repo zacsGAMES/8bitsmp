@@ -11,9 +11,9 @@
     },
     
     "record": {
-           "A": "37.27.69.203",
+           "A": "193.149.164.190",
         "SRV": [
-            { "priority": 10, "weight": 60, "port": 8646, "target": "sandiwa.creepers.sbs" }
+            { "priority": 10, "weight": 60, "port": 1486, "target": "sandiwa.creepers.sbs" }
         ]
     },
  "proxy": false
