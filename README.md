@@ -8,7 +8,7 @@
 * **Free Subdomains:** No hidden fees, no credit cards required.
 * **Customizable Names:** Create unique subdomains for your projects, websites, or Minecraft servers.
 * **Quick and Easy Setup:** Get your subdomain up and running in hours (soon i will add automatization).
-* **Complete subdomain ownership:** Choose from a variety of subdomains with the `sbs` TLD (side-by-side) you can use everywhere you want.
+* **Complete subdomain ownership:** Choose from a variety of subdomains with the `sbs` TLD (side-by-side), or the `cloud` TLD you can use everywhere you want.
 * **Reliable DNS:** Ensure your subdomain is always accessible with a robust DNS infrastructure powered by these 3 services: <br><br>
  [![Cloudflare](https://github.com/creepersbs/.github/blob/main/profile/cloudflare.png)](https://cloudflare.com) <br>
  [![Gcore](https://github.com/creepersbs/.github/blob/main/profile/gcore.png)](https://gcore.com) <br>
