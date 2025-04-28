@@ -1,0 +1,16 @@
+{                                           
+    "description": "Official",
+    "domain": "creepers.sbs", 
+    "subdomain": "app"
+
+    "owner": {
+        "github user": "https://github.com/creepersbs"
+        "email": "support@creepercraft.store"
+    },
+                                                        
+    "record": {
+        
+        "CNAME": "creepersbs.github.io"
+        
+ "proxy": true
+}
