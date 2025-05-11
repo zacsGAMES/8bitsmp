@@ -3,8 +3,8 @@
     "domain": "creepers.sbs/creepers.cloud", (choose which one, more domains in the future)
     "subdomain": "example",
 
-"country code": "none", (this decides if your domain will go under any iso2 country code subdomain, such as "en.domain.tld"
-    "it.domain.tld" etc... if you type "none" your domain will be put under the main route under the domain...so yourdomain.creepers.cloud/sbs)
+"country code": "none", (this decides if your domain will go under any iso2 country code subdomain, such as 'en.domain.tld' 'it.domain.tld' etc... 
+    if you type 'none' your domain will be put under the main route under the domain...so yourdomain.creepers.cloud/sbs)
     
     "owner": {
         "github user": "https://github.com/username", (required, has to be the one who's making the request)
