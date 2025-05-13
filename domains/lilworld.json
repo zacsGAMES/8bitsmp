@@ -1,1 +1,24 @@
-
+{
+    "description": "Minecraft Server",
+    "domain": "creepers.sbs",
+    "subdomain": "lilworld",
+    "country code": "none",
+    "owner": {
+        "github user": "https://github.com/Hydr46605",
+        "email": "bryamjamb@proton.me"
+    },
+    "record": {
+        "A": ["52.4.178.233"],
+        "SRV": [
+            {
+                "content": "_minecraft._tcp",
+                "priority": 10,
+                "weight": 5,
+                "ttl": "auto",
+                "port": 25712,
+                "target": "lilworld.creepers.sbs"
+            }
+        ]
+    },
+    "proxy": false
+}
