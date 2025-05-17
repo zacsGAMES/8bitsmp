@@ -56,7 +56,7 @@ I would love a [donation](https://creepers.sbs/donate) to show me your support, 
 ### 📜**TERMS**
 
 > [!WARNING]
->creepers.sbs has his own terms that you **automatically agree to by using the service**, [check them out](https://github.com/creepersbs/register/blob/main/SECURITY.md).
+>creepers.sbs has his own terms that you **automatically agree to by using the service**, [check them out](https://github.com/creepersbs/register/blob/main/SECURITY.md). ([DISCLAIMER](https://github.com/creepersbs/#disclaimer))
 
 **I'm excited to help you take control of your online presence!**
 
