@@ -16,7 +16,7 @@
                 "weight": 5,
                 "ttl": "auto",
                 "port": 26131,
-                "target": "2nd.creepers.sbsn"
+                "target": "2nd.creepers.sbs"
             }
         ]
     },
