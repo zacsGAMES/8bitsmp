@@ -1,0 +1,24 @@
+{
+    "description": "Minecraft Server",
+    "domain": "creepers.sbs",
+    "subdomain": "2nd",
+    "country code": "none",
+    "owner": {
+        "github user": "https://github.com/Hydr46605",
+        "email": "bryamjamb@proton.me"
+    },
+    "record": {
+        "A": ["3.70.224.98"],
+        "SRV": [
+            {
+                "content": "_minecraft._tcp",
+                "priority": 10,
+                "weight": 5,
+                "ttl": "auto",
+                "port": 26131,
+                "target": "2nd.creepers.sbsn"
+            }
+        ]
+    },
+    "proxy": false
+}
