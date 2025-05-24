@@ -62,7 +62,10 @@ I would love a [donation](https://creepers.sbs/donate) to show me your support, 
 
 ### Problems❓
 > [!TIP]
->Open an issue and tell me the problem, [**`here you go`**](https://github.com/creepersbs/register/issues/new/choose)
+>Open an issue and tell me the problem in English, [**`here you go`**](https://github.com/creepersbs/register/issues/new/choose)
 
 ### 🤝Similar services
-As i said this is just **another** subdomain service, check the others out as well at [**`Free 4 Life`**](https://free.hrsn.dev/#/?id=domains)
+As i said this is just **another** subdomain service, check the others out as well at [**`Free 4 Life`**](https://free.hrsn.dev/#/?id=domains)<br>
+[**`Afraid`**](https://freedns.afraid.org/)<br>
+[**`eu.org`**](https://nic.eu.org)<br>
+
