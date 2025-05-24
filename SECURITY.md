@@ -11,6 +11,15 @@ By using this service you allow us also to not use this list of domains if under
 5 - `all the domains listed in the reserved folder`, this one - > [**`folder link`**](https://github.com/creepersbs/register/tree/main/domains/reserved) <br>
 6 - `any social name`, our official socials can't be missunderstood by any subdomain you might register
 
+### Removal
+
+If **any `verified` business** asks us `via email`, `pull request` or `DM` to remove a subdomain you made that breaks their TOS etc...(kind of a `DMCA request`) then I will **remove** the domain. <br> But as I wrote the employee/company **has to `prove their identity` before**.
+
+### Max usage
+
+Any user (besides the team) can register currently up to **`3 domains`** in **total**, counting both the **.sbs** and **.cloud** requests.
+<br>[_This number could get bigger, only time can tell_]
+
 ## Reporting a Vulnerability 
 
 You can report low severity bugs as issues on [**here**](https://github.com/creepersbs/register/issues/new) or either reporting to [**@me**](https://github.com/giocoliere) via [**Discord**](https://giocoliere.dev/discord).
