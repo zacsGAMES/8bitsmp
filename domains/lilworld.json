@@ -8,7 +8,7 @@
         "email": "bryamjamb@proton.me"
     },
     "record": {
-        "A": ["52.4.178.233"],
+        "A": ["3.88.85.196"],
         "SRV": [
             {
                 "content": "_minecraft._tcp",
