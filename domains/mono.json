@@ -1,0 +1,25 @@
+{
+    "description": "MonoClassic - Minecraft Server",
+    "domain": "creepers.sbs",
+    "subdomain": "mono",
+    "country code": "none",
+    "owner": {
+        "github user": "https://github.com/notisunderstand",
+        "email": "dikonpromotion@gmail.com"
+    },
+    "record": {
+        "A": ["5.83.140.205"],
+        "CHAME": "acf1ca0ed267f68fdbe3d59f0f5a2ed7.ipv4.tcpshield.com",
+        "SRV": [
+            {
+                "content": "_minecraft._tcp",
+                "priority": 10,
+                "weight": 5,
+                "ttl": "auto",
+                "port": 25706,
+                "target": "mono.creepers.sbs"
+            }
+        ]
+    },
+    "proxy": false
+}
