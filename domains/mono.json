@@ -9,7 +9,7 @@
     },
     "record": {
         "A": ["5.83.140.205"],
-        "CHAME": "acf1ca0ed267f68fdbe3d59f0f5a2ed7.ipv4.tcpshield.com",
+        "CNAME": "acf1ca0ed267f68fdbe3d59f0f5a2ed7.ipv4.tcpshield.com",
         "SRV": [
             {
                 "content": "_minecraft._tcp",
