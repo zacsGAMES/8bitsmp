@@ -8,7 +8,7 @@
         "email": "dikonpromotion@gmail.com"
     },
     "record": {
-        "A": ["5.83.140.205"],
+        "A": [ "5.83.140.205"], (moved to play.mono.creepers.sbs)
         "CNAME": "acf1ca0ed267f68fdbe3d59f0f5a2ed7.ipv4.tcpshield.com",
         "SRV": [
             {
