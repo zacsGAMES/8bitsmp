@@ -8,7 +8,8 @@
     
     "owner": {
         "github user": "https://github.com/username", (required, has to be the one who's making the request)
-        "email": "cool_email@anywebsite.tld" (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
+        "email": "cool_email@anywebsite.tld", (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
+        "discord": "optional" (this '@username' field is optional...but can be another usefull way to contact / be contacted by the support, even to transfer the subdomain to another person) 
     },
                                                                                    (then choose the records: A / AAAA / CNAME / NS / MX / TXT )                              
     "record": {
