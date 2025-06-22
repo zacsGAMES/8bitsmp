@@ -1,7 +1,7 @@
 {
     "description": "Minecraft Server",
     "domain": "creepers.sbs",
-    "subdomain": "lilworld",
+    "subdomain": "ciriland",
     "country code": "none",
     "owner": {
         "github user": "https://github.com/Hydr46605",
@@ -16,7 +16,7 @@
                 "weight": 5,
                 "ttl": "auto",
                 "port": 25712,
-                "target": "lilworld.creepers.sbs"
+                "target": "ciriland.creepers.sbs"
             }
         ]
     },
