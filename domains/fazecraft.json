@@ -1,7 +1,7 @@
 {
-    "description": "fazecraft minecraft server",
+    "description": "eternal minecraft server",
     "domain": "creepers.sbs",
-    "subdomain": "fazecraft",
+    "subdomain": "eternalsmp",
 
     "country code": "none",
     
@@ -11,9 +11,9 @@
     },
     
     "record": {
-           "A": "193.149.164.190",
+           "A": "45.32.111.83",
         "SRV": [
-            { "priority": 10, "weight": 60, "port": 1486, "target": "fazecraft.creepers.sbs" }
+            { "priority": 10, "weight": 60, "port": 25565, "target": "eternalsmp.creepers.sbs" }
         ]
     },
  "proxy": false
