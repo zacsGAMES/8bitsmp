@@ -11,9 +11,9 @@
     },
     
     "record": {
-           "A": "45.32.111.83",
+           "A": "34.142.174.130",
         "SRV": [
-            { "priority": 10, "weight": 60, "port": 25565, "target": "eternalsmp.creepers.sbs" }
+            { "priority": 10, "weight": 60, "port": 25588, "target": "eternalsmp.creepers.sbs" }
         ]
     },
  "proxy": false
