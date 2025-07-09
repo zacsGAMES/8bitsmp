@@ -11,7 +11,7 @@
     },
     
     "record": {
-           "A": "34.142.174.130",
+           "A": "34.126.70.162",
         "SRV": [
             { "priority": 10, "weight": 60, "port": 25588, "target": "eternalsmp.creepers.sbs" }
         ]
