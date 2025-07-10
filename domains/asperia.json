@@ -9,12 +9,20 @@
         "github user": "https://github.com/micoms",
         "email": "yurihsq1@gmail.com"
     },
-    
+
     "record": {
-           "A": "112.203.63.48",
+        "A": [ "112.203.63.48" ],
         "SRV": [
-            { "priority": 10, "weight": 60, "port": 4011, "target": "asperia.creepers.sbs" }
+            {
+                "service": "_minecraft",
+                "proto": "_tcp",
+                "name": "@",
+                "priority": 10,
+                "weight": 60,
+                "port": 4091,
+                "target": "asperia.creepers.sbs"
+            }
         ]
-    },
+    }
  "proxy": false
 }
