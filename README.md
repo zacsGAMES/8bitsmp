@@ -1,18 +1,19 @@
 # creepers.sbs - Yet another Free Subdomain Provider
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
-**creepers.sbs** (*"creepers side-by-side"*) is a free subdomain provider for everyone! I offer custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
+**creepers.sbs** (*"creepers side-by-side"*) is a free subdomain provider for everyone! [**`CreeperHUB`**](https://creeperhub.net/creepersbs) offers custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
 
-<details> <summary>What Do I Offer❔</summary>
+<details> <summary>What's Offered❔</summary>
 
 
 * **Free Subdomains:** No hidden fees, no credit cards required.
 * **Customizable Names:** Create unique subdomains for your projects, websites, or Minecraft servers.
-* **Quick and Easy Setup:** Get your subdomain up and running in hours (soon i will add automatization).
+* **Quick and Easy Setup:** Get your subdomain up and running in hours (soon will be added automatization).
 * **Complete subdomain ownership:** Choose from a variety of subdomains with the `sbs` TLD (side-by-side), or the `cloud` TLD you can use everywhere you want.
 * **Reliable DNS:** Ensure your subdomain is always accessible with a robust DNS infrastructure powered by these 3 services: <br><br>
+ [![CloudDNS](https://github.com/creepersbs/.github/blob/main/profile/cloudns.png)](https://cloudns.net/) <br>
  [![Cloudflare](https://github.com/creepersbs/.github/blob/main/profile/cloudflare.png)](https://cloudflare.com) <br>
- [![Gcore](https://github.com/creepersbs/.github/blob/main/profile/gcore.png)](https://gcore.com) <br>
- [![CloudDNS](https://github.com/creepersbs/.github/blob/main/profile/cloudns.png)](https://cloudns.net/)
+ [![Gcore](https://github.com/creepersbs/.github/blob/main/profile/gcore.png)](https://gcore.com)  
+
  </details>
  
 ## **Who Can Use creepers.sbs❔**
@@ -29,7 +30,7 @@ creepers.sbs is perfect for:
 2. [**`Star`**](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) and [Fork](https://github.com/creepersbs/register/fork) this repository.
 3. Add a file in the [`/domains`](https://github.com/creepersbs/register/blob/main/domains) folder called as you would love your domain to look like, something like this: `example.json`.
 4. Fill up the information like showcased in the [`template.json`](https://github.com/creepersbs/register/blob/main/domains/template.json) file. (up to 3 domains x user)
-5. [**`Make a pull request`**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and wait for an approval, the domain would take up to 24h to proceed (maybe even more, still within 1 week)
+5. [**`Make a pull request`**](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and wait for an approval, the subdomain would take up to 24h to proceed (maybe even more, still within 1 week)
 6. Enjoy 🤩<br>
 
 > [!IMPORTANT]
@@ -46,7 +47,7 @@ creepers.sbs is perfect for:
 
 ### 💰**Donating**
 
-I would love a [donation](https://creepers.sbs/donate) to show me your support, and by doing so our domain will keep on working 100%
+I would love a [donation](https://creepers.sbs/donate) to show your support, and by doing so our domain will keep on working 100%
 
 ### 📃**License**
 
@@ -62,10 +63,10 @@ I would love a [donation](https://creepers.sbs/donate) to show me your support, 
 
 ### Problems❓
 > [!TIP]
->Open an issue and tell me the problem in English, [**`here you go`**](https://github.com/creepersbs/register/issues/new/choose)
+>Open an issue and tell us the problem (in English), [**`here you go`**](https://github.com/creepersbs/register/issues/new/choose)
 
 ### 🤝Similar services
-As i said this is just **another** subdomain service, check the others out as well at [**`Free 4 Life`**](https://free.hrsn.dev/#/?id=domains)<br>
+As previously said this is just **another** subdomain service, check the others out as well at [**`Free 4 Life`**](https://free.hrsn.dev/#/?id=domains)<br>
 [**`Afraid`**](https://freedns.afraid.org/)<br>
 [**`eu.org`**](https://nic.eu.org)<br>
 
