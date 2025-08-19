@@ -1,0 +1,27 @@
+{
+    "description": "Custom survival server",
+    "domain": "creepers.cloud",
+    "subdomain": "nexamc",
+
+"country code": "none",
+    
+    "owner": {
+        "github user": "https://github.com/Fra-McNaples",
+        "email": "booxquestion@gmail.com"
+    },
+                        
+    "record": {
+        "A": ["65.109.53.221"],
+        "SRV": [
+            {
+              "content": "_minecraft._tcp", 
+              "priority": 10, 
+              "weight": 60, 
+              "ttl": "auto", 
+              "port": 9733, 
+              "target": "nexamc.creepers.cloud" 
+            }
+        ]
+    },
+ "proxy": false
+}
