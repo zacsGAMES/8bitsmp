@@ -1,6 +1,6 @@
 {                                            (When registering your domain please remove all the text i added to explain to you how to register a subdomain, this included)
     "description": "Project Description",
-    "domain": "creepers.sbs/creepers.cloud", (choose which one, more domains in the future)
+    "domain": "creepers.sbs/creepers.cloud", (choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
     "subdomain": "example",
 
 "country code": "none", (this decides if your domain will go under any iso2 country code subdomain, such as 'en.domain.tld' 'it.domain.tld' etc... 
@@ -27,3 +27,4 @@ to choose the domain.(mainrecord).creepers.tld in the first field [none] and spe
     },
  "proxy": "false/true" (choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
 }
+                        (IF YOU WANT TO REGISTER BOTH DOMAINS AT THE SAME TIME [.sbs/.cloud] YOU CAN COPY AND PASTE THE SECTION FROM "RECORD" UP TO THE END OF THE DOCUMENT [ADD ANOTHER, AFTER THE "}" OF PROXY])
