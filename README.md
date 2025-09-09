@@ -1,4 +1,4 @@
-# creepers.sbs - Yet another Free Subdomain Provider
+# creepers.sbs - Yet another Free Subdomain Provider [![img](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.net)
 [![Banner](https://raw.githubusercontent.com/creepersbs/.github/refs/heads/main/profile/mini-banner.png)](https://creepers.sbs)
 **creepers.sbs** (*"creepers side-by-side"*) is a free subdomain provider for everyone! [**`CreeperHUB`**](https://creeperhub.net/creepersbs) offers custom subdomains for developers, Minecraft players, and server owners, allowing you to personalize your online presence without breaking the bank.
 
