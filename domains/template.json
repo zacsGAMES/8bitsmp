@@ -9,7 +9,8 @@
     "owner": {
         "github user": "https://github.com/username", (required, has to be the one who's making the request)
         "email": "cool_email@anywebsite.tld", (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
-        "discord": "optional" (this '@username' field is optional...but can be another usefull way to contact / be contacted by the support, even to transfer the subdomain to another person) 
+        "discord": "optional" (this '@username' field is optional...but can be another usefull way to contact / be contacted by the support, even to transfer the subdomain to another person. 
+If you add this field you'll be contacted/can contact the support only if you're on the official discord server [Link I) 
     },
                                                                                    (then choose the records: A / AAAA / CNAME / NS / MX / TXT )                              
     "record": {
@@ -17,7 +18,7 @@
 to choose the domain.(mainrecord).creepers.tld in the first field [none] and specify which record [A / AAAA / CNAME / MX] goes in that field.)
            "A": ["1.1.1.1", "1.0.0.1"], (points to a IPv4 address) 
         "AAAA": ["::1", "::2"],   (points to a IPv6 address) 
-        "CNAME": "anywebsite.tld",  (points to another sub/domain) (As a reminder: A CNAME cannot exist alongside any other domain with the same name unless it is a TXT record)
+        "CNAME": "anywebsite.tld",  (points to another sub/domain) (As a reminder: A CNAME cannot exist alongside any other domain with the same name unless it's a TXT record)
         "MX": ["mx1.anywebsite.tld", "mx2.anywebsite.tld"],  (points to mail servers)
         "TXT": ["thi_is_an_example_verification=012345678910"], (it's usually a domain verification)
         "SRV": [                                                                                                                        (points to server, VoIP servers, MC servers...etc)
@@ -27,4 +28,4 @@ to choose the domain.(mainrecord).creepers.tld in the first field [none] and spe
     },
  "proxy": "false/true" (choose which you prefer, the proxy is the cloudflare protection [COULD NOT WORK ON THE MAJORITY OF THE SERVICES])
 }
-                        (IF YOU WANT TO REGISTER BOTH DOMAINS AT THE SAME TIME [.sbs/.cloud] YOU CAN COPY AND PASTE THE SECTION FROM "RECORD" UP TO THE END OF THE DOCUMENT [ADD ANOTHER, AFTER THE "}" OF PROXY])
+                        (IF YOU WANT TO REGISTER BOTH DOMAINS AT THE SAME TIME [.sbs/.cloud] YOU CAN COPY AND PASTE THE SECTION FROM "RECORD" UP TO THE END OF THE DOCUMENT [ADD ANOTHER "," AFTER THE "}" OF FIRST "PROXY"])
