@@ -1,0 +1,27 @@
+{                                            
+    "description": "Project Description",
+    "domain": "creepers.cloud",
+    "subdomain": "8bitsmp",
+
+"country code": "none",
+    
+    "owner": {
+        "github user": "https://github.com/zacsGAMES",
+        "email": "zacherybbrown@outlook.com",
+        "discord": "@8bitzac"
+    },
+                                                                                                              
+    "record": {
+"spare record": ["none", "A"],
+           "A": ["1.1.1.1", "10.0.0.1"],
+        "AAAA": ["::1", "::2"],   
+        "CNAME": "anywebsite.tld",  
+        "MX": ["mx1.anywebsite.tld", "mx2.anywebsite.tld"],  
+        "TXT": ["thi_is_an_example_verification=012345678910"], 
+        "SRV": [                                                                                                                        
+            { "content": "_a_srv.record", "priority": 10, "weight": 60, "ttl": "auto", "port": 5060, "target": "24.10.186.10" },
+        ]
+    },
+ "proxy": "false" 
+}
+                        
